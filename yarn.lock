@@ -76,9 +76,10 @@ acorn@^5.3.0:
   version "5.7.2"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.2.tgz#91fa871883485d06708800318404e72bfb26dcc5"
 
-adm-zip@^0.4.11:
-  version "0.4.11"
-  resolved "https://registry.yarnpkg.com/adm-zip/-/adm-zip-0.4.11.tgz#2aa54c84c4b01a9d0fb89bb11982a51f13e3d62a"
+adm-zip@^0.5.2:
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/adm-zip/-/adm-zip-0.5.2.tgz#8128ec30f4975d977b9285ebd764ae8db03fa6db"
+  integrity sha512-lUI3ZSNsfQXNYNzGjt68MdxzCs0eW29lgL74y/Y2h4nARgHmH3poFWuK3LonvFbNHFt4dTb2X/QQ4c1ZUWWsJw==
 
 after@0.8.2:
   version "0.8.2"
